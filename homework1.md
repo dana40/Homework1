@@ -23,7 +23,7 @@ library(ggrepel)
 
 (4 points)
 
-Write your narrative here
+there are two animals
 
 \`2.
 
