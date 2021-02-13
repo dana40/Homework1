@@ -30,7 +30,7 @@ library(ggrepel)
 ```{r}
 
 ```
-there are two animals
+52.519
 
 
 

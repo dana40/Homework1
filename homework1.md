@@ -23,7 +23,7 @@ library(ggrepel)
 
 (4 points)
 
-there are two animals
+52.519
 
 \`2.
 
