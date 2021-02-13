@@ -29,7 +29,7 @@ there are two animals
 
 (4 points)
 
-Write your narrative below
+variables 7
 
 \`3. Copy the code provided in the homework documentation and paste it
 here.
