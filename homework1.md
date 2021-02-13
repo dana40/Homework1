@@ -35,7 +35,7 @@ variables 7
 
 (4 points)
 
-Write your narrative here
+the most common names are (Na, Lucy, Charlie)
 
 \`4.
 
