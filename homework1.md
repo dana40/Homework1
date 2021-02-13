@@ -31,8 +31,7 @@ there are two animals
 
 variables 7
 
-\`3. Copy the code provided in the homework documentation and paste it
-here.
+\`3. seattlepets %&gt;% + count(animal\_name, sort = TRUE)
 
 (4 points)
 
