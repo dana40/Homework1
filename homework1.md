@@ -1,7 +1,7 @@
 Homework \#1 – Pet Names Dataset
 ================
 dana mohammed
-2021-02-13
+2021-02-15
 
 **Student ID:2201000498**
 
@@ -44,7 +44,7 @@ the most common names are (Na, Lucy, Charlie)
 \`5. What names are more common for cats than dogs? The ones above the
 line or the ones below the line?
 
-Answer here
+oliver and lily
 
 (4 points)
 
