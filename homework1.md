@@ -1,7 +1,7 @@
 Homework \#1 – Pet Names Dataset
 ================
 dana mohammed
-2021-02-15
+2021-02-17
 
 **Student ID:2201000498**
 
@@ -52,6 +52,7 @@ oliver and lily
 with a given name and proportion of dogs with a given name) positive or
 negative? What does this mean in context of the data?
 
-Answer here
+if the names of the dogs increased, the names of the cats increased, and
+if the names of the dogs decreased, the names of the cats also decreased
 
 (4 points)
